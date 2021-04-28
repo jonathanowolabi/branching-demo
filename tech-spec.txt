@@ -1,1 +1,5 @@
+This is the technical specifications for the work required
 
+please do the folllowing create a file with a new name 
+make a new branch
+push to remote and repeat two times
